@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.13">
+	<ConfigVersions>
+		<Metadata name="Catalog.Номенклатура" id="33856107-3c85-4cd9-abf9-d878cd628140" configVersion="280e24d82a6fd941a3e435cf102d6d3800000000">
+			<Metadata name="Catalog.Номенклатура.TabularSection.МестаХранения" id="6e2a0be1-29ec-4838-ab16-d35c7bed8a1c"/>
+			<Metadata name="Catalog.Номенклатура.TabularSection.МестаХранения.Attribute.Номер" id="ab6f0271-f875-455a-b25f-817e7ddcb461"/>
+			<Metadata name="Catalog.Номенклатура.TabularSection.МестаХранения.Attribute.Артикул" id="bd34d75b-128c-4a26-8b11-74a96122891d"/>
+		</Metadata>
+		<Metadata name="Configuration.Конфигурация" id="a8329ee6-da3c-4c93-a56a-dda5d3742372" configVersion="c7da45735c4a474ab058b1cb14c06dbb00000000"/>
+		<Metadata name="Document.ЗаказПокупателя" id="e4d0f4f8-c8b5-42ab-a8df-16cb62d0f0db" configVersion="e2e6e2a386e9774abeeeb46be9700cd000000000">
+			<Metadata name="Document.ЗаказПокупателя.TabularSection.Товары.Attribute.Количество" id="01181ba9-05a4-48c2-ae51-e92d70e61114"/>
+			<Metadata name="Document.ЗаказПокупателя.TabularSection.Товары.Attribute.Цена" id="de3e22f2-69d4-4d4e-b96e-0f5250c2749d"/>
+			<Metadata name="Document.ЗаказПокупателя.TabularSection.Товары" id="f0f049e8-8da6-4a87-b454-06d3da1b5c0b"/>
+			<Metadata name="Document.ЗаказПокупателя.TabularSection.Товары.Attribute.Номенклатура" id="fc3e5992-51eb-4680-9e3f-8b0bfd0af51b"/>
+		</Metadata>
+		<Metadata name="Language.Русский" id="0535586d-5091-412e-8318-e43dff0f9cda" configVersion="8c7332b7ae00b94f885fbd988de48a1100000000"/>
+		<Metadata name="Subsystem.Общая" id="f72d7ffb-eb39-4d19-8445-fa54d4ba1258" configVersion="dc5fdd662055e448a8353681ee2d950700000000"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
